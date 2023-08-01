@@ -1,0 +1,8 @@
+../Core/Src/timer_pwm.h:26:6:PWM_Set	1
+../Core/Src/timer_pwm.h:32:10:PWM_Write	4
+../Core/Src/main.c:72:5:main	5
+../Core/Src/main.c:146:6:SystemClock_Config	3
+../Core/Src/main.c:192:13:MX_TIM2_Init	4
+../Core/Src/main.c:237:13:MX_TIM4_Init	9
+../Core/Src/main.c:311:13:MX_GPIO_Init	1
+../Core/Src/main.c:344:6:Error_Handler	1
